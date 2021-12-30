@@ -1,0 +1,49 @@
+body {
+	background-image: url(img/background2.jpg);
+	background-position: top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color:gray ;
+}
+p{text-indent: 2em;}
+
+.top{
+	text-align: center;
+	font-size: 2rem;
+}
+.main {
+	width: 80%;
+	margin: 0 auto;
+	background: linear-gradient(180deg,black);
+}
+.text{
+	text-align: center;
+}
+.pic1{
+display: flex;
+	flex-wrap: wrap;
+	justify-content: center;	
+}
+.text1 {
+	text-align: center;
+}
+.pic2 {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin: 30px auto;
+}
+.text2{
+	text-align: center;
+}
+.pic3 {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.text3{
+	text-align: center;
+}
+.text4{
+	text-align: center;
+}
